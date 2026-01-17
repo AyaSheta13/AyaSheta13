@@ -1,19 +1,14 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/f8/b4/82/f8b482c8950110705631177d61400611.gif" width="150"/>
     <br/>
-    
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aya+Sheta+✨;Native+Android+Developer+🌸;Kotlin+%26+Compose+Enthusiast;Crafting+Digital+Art+with+Code" alt="Typing SVG" />
     </a>
-
     <br/>
-    
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-
     <br/><br/>
-
     <a href="https://github.com/AyaSheta13">
         <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" />
     </a>
@@ -36,7 +31,6 @@
             <p><em>"Building mobile applications that are not just functional, but delightful to use."</em> ✨</p>
         </blockquote>
         <br/>
-        
         - 🌷 I’m currently working on **Advanced Jetpack Compose Animations**.  
         - 🌱 Learning **Kotlin Multiplatform (KMP)** to expand my horizons.  
         - 📱 **Specialty**: Writing clean, testable code using **MVVM & Clean Architecture**.  
