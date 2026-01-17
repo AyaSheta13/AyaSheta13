@@ -2,23 +2,23 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRodnJwdGl4YWhscmJkcmdrN2V4NWVxd3hqbTdpdGJyNW0zc3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160"/>
     <br/><br/>
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=6D28D9&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aya+Sheta;Senior+Android+Developer;Kotlin+%7C+Jetpack+Compose+Expert;Building+Scalable+Mobile+Solutions" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aya+Sheta;Senior+Android+Developer;Kotlin+%7C+Jetpack+Compose+Expert;Building+Scalable+Mobile+Solutions" alt="Typing SVG" />
     </h1>
     <br/>
     <a href="https://www.linkedin.com/in/ayasheda/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-DB3A7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/AyaSheta13" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-BA55D3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:aya.sheta@example.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-FF6EB4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://medium.com/@ayasheta" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+        <img src="https://img.shields.io/badge/Medium-CC99FF?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a> 
     <br/><br/>
-    <img src="https://komarev.com/ghpvc/?username=AyaSheta13&color=6D28D9&style=flat-square" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=AyaSheta13&color=FF69B4&style=flat-square" alt="Profile views"/>
 </div>
 
 ---
@@ -26,7 +26,7 @@
 ## 🎯 About Me
 
 <div align="center">
-    <blockquote style="border-left: 4px solid #6D28D9; padding-left: 15px; font-style: italic; color: #374151;">
+    <blockquote style="border-left: 4px solid #FF69B4; padding-left: 15px; font-style: italic; color: #6B7280;">
         "Transforming complex problems into elegant mobile solutions with clean architecture and modern Android technologies."
     </blockquote>
 </div>
@@ -64,9 +64,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
     <br/>
-    <img src="https://img.shields.io/badge/MVVM-6D28D9?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=for-the-badge&logo=archlinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/MVI-8B5CF6?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 ### **Libraries & Frameworks**
@@ -87,15 +87,15 @@
     <table>
         <tr>
             <td>
-                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=7C3AED&text_color=FFFFFF" />
+                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=react&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=DA70D6&text_color=6B7280" />
             </td>
             <td>
-                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=FFFFFF" />
+                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=react&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=6B7280" />
             </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
-                <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyaSheta13&theme=radical&hide_border=true&background=0D1117&stroke=6D28D9&ring=7C3AED&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6D28D9&sideLabels=FFFFFF&dates=A78BFA" />
+                <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyaSheta13&theme=react&hide_border=true&background=FFF0F5&stroke=FF69B4&ring=DA70D6&fire=DA70D6&currStreakNum=FF69B4&sideNums=6B7280&currStreakLabel=DA70D6&sideLabels=6B7280&dates=FFB6C1" />
             </td>
         </tr>
     </table>
@@ -108,27 +108,27 @@
 <div align="center">
 
 ### **🎵 SoundWave - Music Streaming Platform**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Hilt](https://img.shields.io/badge/Dagger_Hilt-FF6B6B?style=flat-square&logo=dagger&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF69B4?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-DA70D6?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Dagger_Hilt-FFB6C1?style=flat-square&logo=dagger&logoColor=white)
 
 A modern music streaming application featuring offline playback, personalized recommendations, and smooth animations.
 
 ---
 
 ### **🛒 QuickCart - E-Commerce Solution**
-![MVVM](https://img.shields.io/badge/MVVM-4F46E5?style=flat-square)
-![Room](https://img.shields.io/badge/Room_DB-10B981?style=flat-square&logo=sqlite&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF69B4?style=flat-square)
+![Room](https://img.shields.io/badge/Room_DB-DA70D6?style=flat-square&logo=sqlite&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-FFB6C1?style=flat-square&logo=stripe&logoColor=white)
 
 Full-featured e-commerce platform with real-time inventory, secure payments, and admin dashboard.
 
 ---
 
 ### **💪 FitTrack - Health & Fitness Tracker**
-![WearOS](https://img.shields.io/badge/Wear_OS-4285F4?style=flat-square&logo=android&logoColor=white)
-![HealthConnect](https://img.shields.io/badge/Health_Connect-34D399?style=flat-square&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![WearOS](https://img.shields.io/badge/Wear_OS-DA70D6?style=flat-square&logo=android&logoColor=white)
+![HealthConnect](https://img.shields.io/badge/Health_Connect-FF69B4?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-FF69B4?style=flat-square&logo=kotlin&logoColor=white)
 
 Comprehensive fitness application with WearOS integration, workout plans, and health data analytics.
 
@@ -136,20 +136,10 @@ Comprehensive fitness application with WearOS integration, workout plans, and he
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mastering Jetpack Compose Navigation in Large-Scale Apps](https://medium.com/@ayasheta/mastering-jetpack-compose-navigation-abc123)
-- [Kotlin Multiplatform: Sharing Business Logic Between iOS and Android](https://medium.com/@ayasheta/kotlin-multiplatform-shared-logic-xyz456)
-- [Optimizing Android App Performance: A Comprehensive Guide](https://medium.com/@ayasheta/android-performance-optimization-789def)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎨 Development Activity
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaSheta13&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=7C3AED&line=6D28D9&point=FFFFFF&title_color=6D28D9&custom_title=Contribution+Activity" width="90%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaSheta13&theme=react&bg_color=FFF0F5&hide_border=true&area=true&area_color=FFB6C1&line=FF69B4&point=DA70D6&title_color=FF69B4&custom_title=Contribution+Activity" width="90%"/>
 </div>
 
 <br/>
@@ -165,7 +155,7 @@ Comprehensive fitness application with WearOS integration, workout plans, and he
 ---
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn&fontSize=50&fontAlignY=70" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn&fontSize=50&fontAlignY=70&colorStart=FFB6C1&colorEnd=DA70D6" width="100%"/>
     <h3>Let's connect and build something amazing! 🚀</h3>
     <p>Open to collaborations, technical discussions, and mentoring opportunities</p>
     <br/>
