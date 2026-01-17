@@ -67,15 +67,27 @@
 ## 📊 My Coding Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=rose_pine&title_color=ebbcba&icon_color=eb6f92&text_color=e0def4&bg_color=191724&hide_border=true&count_private=true" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=rose_pine&title_color=ebbcba&text_color=e0def4&bg_color=191724&hide_border=true" height="180" alt="languages" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=rose_pine&hide_border=true"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=rose_pine&hide_border=true"
+  height="180"
+/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaSheta13&theme=rose_pine&hide_border=true&background=191724&ring=eb6f92&fire=ebbcba&currStreakLabel=eb6f92" alt="streak" />
+
+<img
+  src="https://streak-stats.demolab.com?user=AyaSheta13&theme=rose_pine&hide_border=true"
+/>
+
 </div>
 
 ---
