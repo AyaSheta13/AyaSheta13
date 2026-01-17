@@ -112,41 +112,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
 </div>
 
-
-
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-### **🎵 SoundWave - Music Streaming Platform**
-![Kotlin](https://img.shields.io/badge/Kotlin-FF69B4?style=flat-square&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-DA70D6?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Hilt](https://img.shields.io/badge/Dagger_Hilt-FFB6C1?style=flat-square&logo=dagger&logoColor=white)
-
-A modern music streaming application featuring offline playback, personalized recommendations, and smooth animations.
-
----
-
-### **🛒 QuickCart - E-Commerce Solution**
-![MVVM](https://img.shields.io/badge/MVVM-FF69B4?style=flat-square)
-![Room](https://img.shields.io/badge/Room_DB-DA70D6?style=flat-square&logo=sqlite&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-FFB6C1?style=flat-square&logo=stripe&logoColor=white)
-
-Full-featured e-commerce platform with real-time inventory, secure payments, and admin dashboard.
-
----
-
-### **💪 FitTrack - Health & Fitness Tracker**
-![WearOS](https://img.shields.io/badge/Wear_OS-DA70D6?style=flat-square&logo=android&logoColor=white)
-![HealthConnect](https://img.shields.io/badge/Health_Connect-FF69B4?style=flat-square&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-FF69B4?style=flat-square&logo=kotlin&logoColor=white)
-
-Comprehensive fitness application with WearOS integration, workout plans, and health data analytics.
-
-</div>
-
 ---
 
 ## 🎨 Development Activity
