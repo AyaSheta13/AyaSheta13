@@ -48,7 +48,7 @@
 - ⚡ Fun fact: I treat UI implementation like painting on a digital canvas.
     </td>
     <td width="40%" align="center">
-       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
     </td>
   </tr>
 </table>
@@ -94,13 +94,20 @@
 
 ---
 
-## 🧩 Contribution Graph
+## 🐍 My GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake.svg" width="100%">
+  </picture>
+  <p align="center">
+    <i>My contribution journey, visualized through a game.</i>
+  </p>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
