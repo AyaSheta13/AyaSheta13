@@ -1,28 +1,28 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmNHFidXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6cXN6JnB0PWF2YXRhcl9mcmFtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mPeC9mSshK2V3m62Jp/giphy.gif" width="80"/>
-  <br/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aya+Sheta+✨;Native+Android+Developer+🌸;Kotlin+%26+Compose+Enthusiast;Crafting+Digital+Art+with+Code" alt="Typing SVG" />
-  </a>
+    <img src="https://i.pinimg.com/originals/f8/b4/82/f8b482c8950110705631177d61400611.gif" width="150"/>
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Aya+Sheta+✨;Native+Android+Developer+🌸;Kotlin+%26+Compose+Enthusiast;Crafting+Digital+Art+with+Code" alt="Typing SVG" />
+  </a>
 
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 
-  <br/><br/>
+  <br/><br/>
 
-  <a href="https://github.com/AyaSheta13">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/ayasheda">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" />
-  </a>
-  <a href="mailto:ayasheda.android@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=social&logo=gmail" />
-  </a>
+  <a href="https://github.com/AyaSheta13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/ayasheda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" />
+  </a>
+  <a href="mailto:ayasheda.android@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=social&logo=gmail" />
+  </a>
 
 </div>
 
@@ -31,23 +31,23 @@
 ## 🌸 About Me
 
 <table align="center" border="0">
-  <tr>
-    <td width="65%" valign="center">
-      <blockquote>
-        <p><em>"Building mobile applications that are not just functional, but delightful to use."</em> ✨</p>
-      </blockquote>
-      <br/>
-      
+  <tr>
+    <td width="65%" valign="center">
+      <blockquote>
+        <p><em>"Building mobile applications that are not just functional, but delightful to use."</em> ✨</p>
+      </blockquote>
+      <br/>
+      
 - 🌷 I’m currently working on **Advanced Jetpack Compose Animations**.
 - 🌱 Learning **Kotlin Multiplatform (KMP)** to expand my horizons.
 - 📱 **Specialty**: Writing clean, testable code using **MVVM & Clean Architecture**.
 - 💬 Ask me about **Kotlin Coroutines, Dagger Hilt, or Material Design 3**.
 - 💖 Fun fact: I treat UI implementation like painting on a digital canvas.
-    </td>
-    <td width="35%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm56am56am56am56am56am56am56am56am56am56am56am56am56&ep=v1_stickers_search&rid=giphy.gif&ct=s/Y4S3tGf54vG6mCcYvC/giphy.gif" width="180"/>
-    </td>
-  </tr>
+    </td>
+    <td width="35%" align="center">
+                <img src="https://64.media.tumblr.com/a0375114499040752212480483042175/tumblr_inline_p7gz2oQ76P1sykzpg_500.gif" width="180"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -69,8 +69,8 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=AyaSheta13&theme=rose_pine&hide_border=true"
-  height="180"
+  src="https://streak-stats.demolab.com?user=AyaSheta13&theme=rose_pine&hide_border=true"
+  height="180"
 />
 
 </div>
@@ -91,16 +91,16 @@
 ## 🐍 Activity Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake.svg" width="100%">
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AyaSheta13/AyaSheta13/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=60&section=footer"/>
-  <p><i>Made with 💖 by Aya</i></p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=60&section=footer"/>
+  <p><i>Made with 💖 by Aya</i></p>
 </div>
