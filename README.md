@@ -57,58 +57,46 @@
 
 ### **Mobile Development**
 <div align="center">
-    <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-DA70D6?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android_Studio-FFB6C1?style=for-the-badge&logo=androidstudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gradle-FF69B4?style=for-the-badge&logo=gradle&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kotlin.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Kotlin"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Android Studio"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gradle.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Gradle"/>
 </div>
 
 ---
 
 ### **UI & Architecture**
 <div align="center">
-    <img src="https://img.shields.io/badge/Jetpack_Compose-DA70D6?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-    <img src="https://img.shields.io/badge/Material_Design-FF69B4?style=for-the-badge&logo=materialdesign&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jetpackcompose.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Jetpack Compose"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/materialdesign.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Material Design"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Figma"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3580/3580334.png" width="50" alt="Clean Architecture"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="MVVM / MVI"/>
 </div>
 
 ---
 
 ### **Libraries & Frameworks**
 <div align="center">
-    <img src="https://img.shields.io/badge/Hilt-FF69B4?style=for-the-badge&logo=dagger&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dagger-DA70D6?style=for-the-badge&logo=dagger&logoColor=white" />
-    <img src="https://img.shields.io/badge/Room-FFB6C1?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Retrofit-FF69B4?style=for-the-badge&logo=retrofit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-DA70D6?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dagger.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Hilt / Dagger"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sqlite.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Room"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/retrofit.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Retrofit"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firebase.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Firebase"/>
 </div>
 
 ---
 
 ### **Tools & Platforms**
 <div align="center">
-    <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab-FF69B4?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-DA70D6?style=for-the-badge&logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="GitLab"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Docker"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jenkins.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Jenkins"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="AWS"/>
 </div>
 
----
 
-### **Tools & Platforms**
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" alt="Jenkins"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
-</div>
 
 ---
 
