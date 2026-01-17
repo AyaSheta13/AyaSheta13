@@ -69,22 +69,6 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AyaSheta13&show_icons=true&theme=rose_pine&hide_border=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=rose_pine&hide_border=true"
-  height="180"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
   src="https://streak-stats.demolab.com?user=AyaSheta13&theme=rose_pine&hide_border=true"
   height="180"
 />
