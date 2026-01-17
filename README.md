@@ -63,10 +63,6 @@
 ### **UI & Architecture**
 <div align="center">
     <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
-    <br/>
-    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 ### **Libraries & Frameworks**
