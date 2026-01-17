@@ -57,50 +57,37 @@
 
 ### **Mobile Development**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kotlin.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Kotlin"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Java"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Android Studio"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gradle.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Gradle"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle" />
 </div>
-
----
 
 ### **UI & Architecture**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jetpackcompose.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Jetpack Compose"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/materialdesign.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Material Design"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Figma"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/3580/3580334.png" width="50" alt="Clean Architecture"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="MVVM / MVI"/>
+    <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
+    <br/>
+    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
 </div>
-
----
 
 ### **Libraries & Frameworks**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dagger.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Hilt / Dagger"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sqlite.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Room"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/retrofit.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Retrofit"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firebase.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Firebase"/>
+    <img src="https://skillicons.dev/icons?i=hilt,dagger,room,retrofit,firebase" />
 </div>
-
----
 
 ### **Tools & Platforms**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="GitHub"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="GitLab"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jenkins.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="Jenkins"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" width="50" style="filter: invert(39%) sepia(63%) saturate(5865%) hue-rotate(316deg) brightness(100%) contrast(97%);" alt="AWS"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,aws" />
 </div>
-
-
 
 ---
 
 ## 🎨 Development Activity
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaSheta13&theme=react&bg_color=FFF0F5&hide_border=true&area=true&area_color=FFB6C1&line=FF69B4&point=DA70D6&title_color=FF69B4&custom_title=Contribution+Activity" width="90%"/>
+</div>
+
+<br/>
 
 <div align="center">
     <picture>
