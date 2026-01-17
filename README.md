@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E37383&center=true&vCenter=true&width=600&lines=🌸+Hi+darling,+I'm+Aya+Sheta;🎀+Senior+Android+Developer;✨+Kotlin+%7C+Jetpack+Compose+Artist;🦋+Building+with+Passion+%26+Grace" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E37383&center=true&vCenter=true&width=600&lines=🌸+Hi,+I'm+Aya+Sheta;🎀+Android+Developer;✨+Kotlin+%7C+Jetpack+Compose;🦋+Building+with+Passion+%26" alt="Typing SVG" />
     </h1>
     <br/>
     <a href="https://www.linkedin.com/in/ayasheda/" target="_blank">
@@ -55,27 +55,27 @@
 
 ## 💌 My Tech Elegance
 
-### **🌸 Core Languages**
+### ** Core Languages**
 <div align="center">
     <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=30" />
     <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=black" />
 </div>
 
-### **🌸 Android Specialties**
+### ** Android Specialties**
 <div align="center">
     <img src="https://img.shields.io/badge/Jetpack_Compose-D8BFD8?style=for-the-badge&logo=jetpackcompose&logoColor=8B008B" />
     <img src="https://img.shields.io/badge/Material_You-DDA0DD?style=for-the-badge&logo=materialdesign&logoColor=8B008B" />
     <img src="https://img.shields.io/badge/Modern_Android-FFB7C5?style=for-the-badge&logo=android&logoColor=black" />
 </div>
 
-### **🌸 Architecture & Design**
+### ** Architecture & Design**
 <div align="center">
     <img src="https://img.shields.io/badge/Clean_Architecture-FFE4E9?style=for-the-badge&logo=archlinux&logoColor=D87093" />
     <img src="https://img.shields.io/badge/MVVM_%2B_State-FFC0CB?style=for-the-badge&logo=android&logoColor=black" />
     <img src="https://img.shields.io/badge/Design_Patterns-FFF0F5?style=for-the-badge&logo=stars&logoColor=D87093" />
 </div>
 
-### **🌸 Libraries I Love**
+### ** Libraries I Love**
 <div align="center">
     <img src="https://img.shields.io/badge/Dagger_Hilt-D8BFD8?style=for-the-badge&logo=dagger&logoColor=8B008B" />
     <img src="https://img.shields.io/badge/Room-FFB7C5?style=for-the-badge&logo=sqlite&logoColor=black" />
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Compose_Navigation-FFE4E9?style=for-the-badge&logo=compass&logoColor=D87093" />
 </div>
 
-### **🌸 Tools & Platforms**
+### ** Tools & Platforms**
 <div align="center">
     <img src="https://img.shields.io/badge/Android_Studio-FFB6C1?style=for-the-badge&logo=androidstudio&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=black" />
