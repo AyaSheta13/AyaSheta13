@@ -56,9 +56,6 @@
 ## 🛠️ Tech Stack & Expertise 💖
 
 <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRodnJwdGl4YWhscmJkcmdrN2V4NWVxd3hqbTdpdGJyNW0zc3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120"/>
-    <br/><br/>
-    ### **Mobile Development**
     <div>
         <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle" />
         <br/>
@@ -98,6 +95,22 @@
     </div>
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=radical&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&icon_color=FFB6C1" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=radical&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
