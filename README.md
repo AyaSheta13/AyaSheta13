@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRodnJwdGl4YWhscmJkcmdrN2V4NWVxd3hqbTdpdGJyNW0zc3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>    <br/><br/>
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRodnJwdGl4YWhscmJkcmdrN2V4NWVxd3hqbTdpdGJyNW0zc3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>    <br/><br/>
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E37383&center=true&vCenter=true&width=600&lines=🌸+Hi+darling,+I'm+Aya+Sheta;💖+Senior+Android+Developer;✨+Kotlin+%7C+Jetpack+Compose+Artist;🦋+Building+with+Passion+%26+Grace" alt="Typing SVG" />
     </h1>
