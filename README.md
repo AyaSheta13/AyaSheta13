@@ -57,32 +57,47 @@
 
 ### **Mobile Development**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Android Studio"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" alt="Gradle"/>
+    <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-DA70D6?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android_Studio-FFB6C1?style=for-the-badge&logo=androidstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-FF69B4?style=for-the-badge&logo=gradle&logoColor=white" />
 </div>
 
 ---
 
 ### **UI & Architecture**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpack/jetpack-original.svg" width="50" alt="Jetpack Compose"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" alt="Material Design"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="MVVM"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="50" alt="Clean Architecture"/>
+    <img src="https://img.shields.io/badge/Jetpack_Compose-DA70D6?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+    <img src="https://img.shields.io/badge/Material_Design-FF69B4?style=for-the-badge&logo=materialdesign&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 ---
 
 ### **Libraries & Frameworks**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dagger/dagger-plain.svg" width="50" alt="Hilt/Dagger"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="Room"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/retrofit/retrofit-original.svg" width="50" alt="Retrofit"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Hilt-FF69B4?style=for-the-badge&logo=dagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dagger-DA70D6?style=for-the-badge&logo=dagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Room-FFB6C1?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Retrofit-FF69B4?style=for-the-badge&logo=retrofit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-DA70D6?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
+
+---
+
+### **Tools & Platforms**
+<div align="center">
+    <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FF69B4?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-DA70D6?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
 
 ---
 
