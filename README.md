@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E37383&center=true&vCenter=true&width=600&lines=🌸+Hi,+I'm+Aya+Sheta;🎀+Android+Developer;✨+Kotlin+%7C+Jetpack+Compose;🦋+Building+with+Passion+%26" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E37383&center=true&vCenter=true&width=600&lines=🌸+Hi,+I'm+Aya+Sheta;🎀+Android+Developer;✨+Kotlin+%7C+Jetpack+Compose;🦋+Building+with+Passion" alt="Typing SVG" />
     </h1>
     <br/>
     <a href="https://www.linkedin.com/in/ayasheda/" target="_blank">
