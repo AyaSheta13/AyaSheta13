@@ -57,43 +57,43 @@
 
 ### **Mobile Development**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Android Studio"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50" alt="Gradle"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/kotlin.svg" width="50" alt="Kotlin"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" width="50" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/androidstudio.svg" width="50" alt="Android Studio"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gradle.svg" width="50" alt="Gradle"/>
 </div>
 
 ---
 
 ### **UI & Architecture**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpack/jetpack-original.svg" width="50" alt="Jetpack Compose"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" alt="Material Design"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" alt="MVVM"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="50" alt="Clean Architecture"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jetpackcompose.svg" width="50" alt="Jetpack Compose"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/materialdesign.svg" width="50" alt="Material Design"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/figma.svg" width="50" alt="Figma"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3580/3580334.png" width="50" alt="Clean Architecture"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/android.svg" width="50" alt="MVVM / MVI"/>
 </div>
 
 ---
 
 ### **Libraries & Frameworks**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dagger/dagger-plain.svg" width="50" alt="Hilt/Dagger"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="Room"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/retrofit/retrofit-original.svg" width="50" alt="Retrofit"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dagger.svg" width="50" alt="Hilt / Dagger"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sqlite.svg" width="50" alt="Room"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/retrofit.svg" width="50" alt="Retrofit"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/firebase.svg" width="50" alt="Firebase"/>
 </div>
 
 ---
 
 ### **Tools & Platforms**
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" alt="GitLab"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" alt="Jenkins"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" width="50" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="50" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gitlab.svg" width="50" alt="GitLab"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" width="50" alt="Docker"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jenkins.svg" width="50" alt="Jenkins"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" width="50" alt="AWS"/>
 </div>
 
 
