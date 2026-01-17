@@ -81,28 +81,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=react&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&icon_color=DA70D6&text_color=6B7280" />
-            </td>
-            <td>
-                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=react&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=6B7280" />
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center">
-                <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyaSheta13&theme=react&hide_border=true&background=FFF0F5&stroke=FF69B4&ring=DA70D6&fire=DA70D6&currStreakNum=FF69B4&sideNums=6B7280&currStreakLabel=DA70D6&sideLabels=6B7280&dates=FFB6C1" />
-            </td>
-        </tr>
-    </table>
-</div>
-
----
-
 ## 🏗️ Featured Projects
 
 <div align="center">
@@ -137,12 +115,6 @@ Comprehensive fitness application with WearOS integration, workout plans, and he
 ---
 
 ## 🎨 Development Activity
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaSheta13&theme=react&bg_color=FFF0F5&hide_border=true&area=true&area_color=FFB6C1&line=FF69B4&point=DA70D6&title_color=FF69B4&custom_title=Contribution+Activity" width="90%"/>
-</div>
-
-<br/>
 
 <div align="center">
     <picture>
