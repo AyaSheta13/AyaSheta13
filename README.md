@@ -38,7 +38,7 @@
     <table>
         <tr>
             <td width="60%" align="left">
-                <p>🌸 <strong>Senior Android Developer</strong> with 5+ years of creating delightful mobile experiences</p>
+                <p>🌸 <strong>Android Developer</strong> with 5+ years of creating delightful mobile experiences</p>
                 <p>🌸 Specializing in <strong>Kotlin & Jetpack Compose</strong> – making UIs that feel as good as they look</p>
                 <p>🌸 Currently building <strong>scalable applications</strong> with modern architecture and thoughtful design</p>
                 <p>🌸 Passionate about <strong>clean code, intuitive UX, and mentoring</strong> other women in tech</p>
@@ -110,9 +110,7 @@
     <h3>🌸 Let's create something beautiful together! 🌸</h3>
     <p>Open to collaborations, mentorship, and projects that make a difference</p>
     <br/>
-    <p>💌 <strong>Reach out:</strong> ayasheta.dev@gmail.com</p>
-    <br/>
-    <p> Always remember: <em>"In a world where you can be anything, be kind – to users and to code."</em></p>
+    <p>💌 <strong>Reach out:</strong> ayasheta959@gmail.com</p>
     <br/>
     <p>© 2024 Aya Sheta • Crafting with heart and intelligence</p>
 </div>
