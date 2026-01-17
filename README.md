@@ -53,41 +53,55 @@
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise 💖
 
-### **Mobile Development**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle" />
-</div>
-
-### **UI & Architecture**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRodnJwdGl4YWhscmJkcmdrN2V4NWVxd3hqbTdpdGJyNW0zc3BqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120"/>
+    <br/><br/>
+    ### **Mobile Development**
+    <div>
+        <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle" />
+        <br/>
+        <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/AndroidStudio-DA70D6?style=for-the-badge&logo=androidstudio&logoColor=white" />
+    </div>
     <br/>
-    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
+    ### **UI & Architecture**
+    <div>
+        <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
+        <br/>
+        <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
+    </div>
+    <br/>
+    ### **Libraries & Frameworks**
+    <div>
+        <img src="https://skillicons.dev/icons?i=hilt,dagger,room,retrofit,firebase" />
+        <br/>
+        <img src="https://img.shields.io/badge/Hilt-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room-FFB6C1?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Retrofit-DA70D6?style=for-the-badge&logo=retrofit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FF69B4?style=for-the-badge&logo=firebase&logoColor=white" />
+    </div>
+    <br/>
+    ### **Tools & Platforms**
+    <div>
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,aws" />
+        <br/>
+        <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-FF69B4?style=for-the-badge&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-DA70D6?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </div>
 </div>
 
-### **Libraries & Frameworks**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=hilt,dagger,room,retrofit,firebase" />
-</div>
-
-### **Tools & Platforms**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,aws" />
-</div>
 
 ---
 
 ## 🎨 Development Activity
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaSheta13&theme=react&bg_color=FFF0F5&hide_border=true&area=true&area_color=FFB6C1&line=FF69B4&point=DA70D6&title_color=FF69B4&custom_title=Contribution+Activity" width="90%"/>
-</div>
-
-<br/>
 
 <div align="center">
     <picture>
