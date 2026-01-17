@@ -57,23 +57,47 @@
 
 ### **Mobile Development**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle" />
+    <img src="https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-DA70D6?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android_Studio-FFB6C1?style=for-the-badge&logo=androidstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-FF69B4?style=for-the-badge&logo=gradle&logoColor=white" />
 </div>
+
+---
 
 ### **UI & Architecture**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
+    <img src="https://img.shields.io/badge/Jetpack_Compose-DA70D6?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+    <img src="https://img.shields.io/badge/Material_Design-FF69B4?style=for-the-badge&logo=materialdesign&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVVM-FF69B4?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-DA70D6?style=for-the-badge&logo=archlinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
 </div>
+
+---
 
 ### **Libraries & Frameworks**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=hilt,dagger,room,retrofit,firebase" />
+    <img src="https://img.shields.io/badge/Hilt-FF69B4?style=for-the-badge&logo=dagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dagger-DA70D6?style=for-the-badge&logo=dagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Room-FFB6C1?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Retrofit-FF69B4?style=for-the-badge&logo=retrofit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-DA70D6?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
+
+---
 
 ### **Tools & Platforms**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,aws" />
+    <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DA70D6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FF69B4?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jenkins-DA70D6?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
+
 
 ---
 
