@@ -94,47 +94,6 @@
 
 ---
 
-## 📊 My Development Garden
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=rose_pine&border_color=FFB6C1&bg_color=FFF0F5&title_color=D87093&icon_color=FF69B4&text_color=8B5D5D&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=rose_pine&border_color=FFB6C1&bg_color=FFF0F5&title_color=D87093&text_color=8B5D5D&hide=html,css" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaSheta13&theme=rose_pine&border=FFB6C1&background=FFF0F5&stroke=FFB6C1&ring=D87093&fire=FF69B4&currStreakNum=D87093&sideNums=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=8B5D5D" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📖 Recent Writings
-
-<!-- BLOG-POST-LIST:START -->
-- [The Art of Jetpack Compose: Creating Beautiful UIs](https://medium.com/@ayasheta/art-of-jetpack-compose)
-- [Feminine Code: Writing Readable & Elegant Kotlin](https://medium.com/@ayasheta/feminine-code-kotlin)
-- [Building with Confidence: Testing in Modern Android](https://medium.com/@ayasheta/building-with-confidence)
-- [From Design to Code: Implementing Material You](https://medium.com/@ayasheta/design-to-code-material-you)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏵️ GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyaSheta13&theme=rose&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,PullRequest" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🎨 Creative Contributions
 
 <div align="center">
