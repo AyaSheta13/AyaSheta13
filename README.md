@@ -72,7 +72,6 @@
 <div align="center">
   <a href="https://github.com/AyaSheta13">
     <img src="https://github-readme-stats.vercel.app/api?username=AyaSheta13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=bb9af7&text_color=c0caf5&title_color=7aa2f7&count_private=true" height="180" alt="stats" />
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaSheta13&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="180" alt="languages" />
   </a>
 </div>
