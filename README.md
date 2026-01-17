@@ -4,7 +4,8 @@
 
 <br><br>
 
-<img src="https://avatars.githubusercontent.com/AyaSheta13" width="150" style="border-radius:50%" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="55"/>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="55"/>
 
 <br><br>
 
