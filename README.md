@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/AndroidStudio-DA70D6?style=for-the-badge&logo=androidstudio&logoColor=white" />
     </div>
     <br/>
-    ### **UI & Architecture**
+    ### UI & Architecture
     <div>
         <img src="https://skillicons.dev/icons?i=jetpackcompose,materialui,figma" />
         <br/>
@@ -73,7 +73,7 @@
         <img src="https://img.shields.io/badge/MVI-FFB6C1?style=for-the-badge&logo=android&logoColor=white" />
     </div>
     <br/>
-    ### **Libraries & Frameworks**
+    ### Libraries & Frameworks
     <div>
         <img src="https://skillicons.dev/icons?i=hilt,dagger,room,retrofit,firebase" />
         <br/>
@@ -83,7 +83,7 @@
         <img src="https://img.shields.io/badge/Firebase-FF69B4?style=for-the-badge&logo=firebase&logoColor=white" />
     </div>
     <br/>
-    ### **Tools & Platforms**
+    ### Tools & Platforms
     <div>
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,aws" />
         <br/>
