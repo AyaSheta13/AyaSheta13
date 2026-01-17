@@ -47,7 +47,7 @@
                 <p>🦋 When not coding: <strong>painting, journaling, and finding beauty in the details</strong></p>
             </td>
             <td width="40%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODY1eGl0MzUzdDJuZDMzaHJkNnUwaGdmZWlrcm80bzBjZzBpeWs5ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="200"/>            </td>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODY1eGl0MzUzdDJuZDMzaHJkNnUwaGdmZWlrcm80bzBjZzBpeWs5ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="300"/>            </td>
         </tr>
     </table>
 </div>
