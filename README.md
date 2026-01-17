@@ -3,20 +3,14 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E37383&center=true&vCenter=true&width=600&lines=🌸+Hi,+I'm+Aya+Sheta;🎀+Android+Developer;✨+Kotlin+%7C+Jetpack+Compose;🦋+Building+with+Passion" alt="Typing SVG" />
     </h1>
     <br/>
-    <a href="https://www.linkedin.com/in/ayasheda/" target="_blank">
+    <a href="https://www.linkedin.com/in/ayasheta/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/AyaSheta13" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-FFE4E9?style=for-the-badge&logo=github&logoColor=D87093" alt="GitHub"/>
     </a>
-    <a href="mailto:ayasheta.dev@gmail.com" target="_blank">
+    <a href="mailto:ayasheta959@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-FFB7C5?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-    </a>
-    <a href="https://medium.com/@ayasheta" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-FFE4E1?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/>
-    </a>
-    <a href="https://twitter.com/ayasheta" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter"/>
     </a>
     <br/><br/>
     <img src="https://komarev.com/ghpvc/?username=AyaSheta13&color=FFB6C1&style=flat-square&label=🌸+Visitors" alt="Profile views"/>
