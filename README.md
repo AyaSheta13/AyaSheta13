@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E63946&center=true&vCenter=true&width=600&lines=🌹+Hi,+I'm+Aya+Sheta;🖤+Android+Developer;🔥+Kotlin+%7C+Jetpack+Compose;✨+Building+with+Passion" alt="Typing SVG" />
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=500&color=E63946&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aya+Sheta;Android+Developer;Kotlin+%7C+Jetpack+Compose;Building+with+Passion" alt="Typing SVG" />
     </h1>
     <br/>
 
@@ -51,16 +51,16 @@
 
 </div>
 
-## 🔥 My Tech Stack
+## My Tech Stack
 
-### **🩸 Core Languages**
+### **Core Languages**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Kotlin-E63946?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=30" />
     <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-### **🖤 Android Specialties**
+### **Android Specialties**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Jetpack_Compose-C1121F?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Modern_Android-1A1A1A?style=for-the-badge&logo=android&logoColor=E63946" />
 </div>
 
-### **🔴 Architecture & Design**
+### **Architecture & Design**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Clean_Architecture-2B2B2B?style=for-the-badge&logo=archlinux&logoColor=E63946" />
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/Design_Patterns-1A1A1A?style=for-the-badge&logo=stars&logoColor=E63946" />
 </div>
 
-### **🩸 Libraries I Love**
+### **Libraries I Love**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Dagger_Hilt-8B0000?style=for-the-badge&logo=dagger&logoColor=white" />
@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/Compose_Navigation-2B2B2B?style=for-the-badge&logo=compass&logoColor=E63946" />
 </div>
 
-### **🖤 Tools & Platforms**
+### **Tools & Platforms**
 
 <div align="center">
     <img src="https://img.shields.io/badge/Android_Studio-C1121F?style=for-the-badge&logo=androidstudio&logoColor=white" />
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Firebase-2B2B2B?style=for-the-badge&logo=firebase&logoColor=E63946" />
 </div>
 
-## 🎨 Creative Contributions
+## Creative Contributions
 
 <div align="center">
     <picture>
