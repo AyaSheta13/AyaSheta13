@@ -4,7 +4,6 @@
     </h1>
     <br/>
 
-```
 <a href="https://www.linkedin.com/in/ayasheta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -20,11 +19,8 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AyaSheta13&color=C1121F&style=flat-square&label=🔥+Visitors" alt="Profile views"/>
-```
 
 </div>
-
----
 
 ## 🖤 About Me
 
@@ -47,18 +43,13 @@
                 <p>🔴 Believes in <strong>strong foundations, elegant solutions, and collaborative growth</strong></p>
                 <p>🔴 When not coding: <strong>painting, journaling, and finding beauty in the details</strong></p>
             </td>
-
-```
         <td width="40%" align="center">
             <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODY1eGl0MzUzdDJuZDMzaHJkNnUwaGdmZWlrcm80bzBjZzBpeWs5ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="300"/>
         </td>
     </tr>
 </table>
-```
 
 </div>
-
----
 
 ## 🔥 My Tech Stack
 
@@ -103,8 +94,6 @@
     <img src="https://img.shields.io/badge/Firebase-2B2B2B?style=for-the-badge&logo=firebase&logoColor=E63946" />
 </div>
 
----
-
 ## 🎨 Creative Contributions
 
 <div align="center">
@@ -115,12 +104,10 @@
     </picture>
 </div>
 
----
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn&fontSize=50&fontAlignY=70&colorStart=C1121F&colorEnd=0D0D0D" width="100%"/>
 
-```
+
 <h3>🔴 Let's create something beautiful together! 🖤</h3>
 
 <p>Open to collaborations, mentorship, and projects that make a difference</p>
@@ -132,6 +119,5 @@
 <br/>
 
 <p>© 2024 Aya Sheta • Crafting with heart and intelligence</p>
-```
 
 </div>
