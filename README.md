@@ -44,7 +44,7 @@
                 <p>🔴 When not coding: <strong>painting, journaling, and finding beauty in the details</strong></p>
             </td>
         <td width="40%" align="center">
-            <img src="https://giphy.com/gifs/lolyinthesky-cat-typing-funnycat-5WILqPq29TyIkVCSej" width="300"/>
+            <img src="https://giphy.com/gifs/lolyinthesky-cat-typing-funnycat-5WILqPq29TyIkVCSej.gif" width="300"/>
         </td>
     </tr>
 </table>
