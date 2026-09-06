@@ -22,7 +22,7 @@
 
 </div>
 
-## 🖤 About Me
+## About Me
 
 <div align="center">
     <blockquote style="border-left: 4px solid #E63946; padding-left: 20px; font-style: italic; color: #CCCCCC; background: #1A1A1A; padding: 15px; border-radius: 10px;">
@@ -108,13 +108,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn&fontSize=50&fontAlignY=70&colorStart=C1121F&colorEnd=0D0D0D" width="100%"/>
 
 
-<h3>🔴 Let's create something beautiful together! 🖤</h3>
+<h3> Let's create something beautiful together! 🖤</h3>
 
 <p>Open to collaborations, mentorship, and projects that make a difference</p>
 
 <br/>
 
-<p>💌 <strong>Reach out:</strong> ayasheta959@gmail.com</p>
+<p> <strong>Reach out:</strong> ayasheta959@gmail.com</p>
 
 <br/>
 
